@@ -1,0 +1,4 @@
+:schedule:
+    first_worker:
+        every: 30s
+        class: FirstWorker
